@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Noor
-- 👀 I’m interested in Bioinformatics with interest in Parasite genomics
-- 🌱 I’m currently learning linux
+- 👀 I am enthusiastic  about Bioinformatics with an interest in Parasite genomics
+- 🌱 I’m currently learning Linux
 - 💞️ I’m looking to collaborate on research that aligns my interest of parasite genomics and drug development 
 - 📫 How to reach me on https://www.linkedin.com/in/nurudeen-o-rahman/
 
